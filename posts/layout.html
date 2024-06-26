@@ -1,0 +1,13 @@
+<main>
+    <h1>{ title }</h1>
+
+    <p>
+        <pretty-date :date="pubDate" />
+    </p>
+
+    <!-- <img class="hero" :src="hero" width="1000" height="800" alt="Hero image for { title }"> -->
+
+    <article>
+        <slot for="content" />
+    </article>
+</main>

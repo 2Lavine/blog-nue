@@ -1,0 +1,25 @@
+avatar: /img/avatar.jpg
+favicon: /img/favicon.jpg
+fullname: BigIdeaHuang
+slogan: Keep hungry,Keep it simple
+
+# OG image
+og: /img/og.jpg
+origin: https://bigideahuang.github.io
+
+social:
+  - icon: email
+    url: email:bigideahuang@foxmail.com
+  - icon: twitter
+    url: //x.com/jasonidae
+    alt: Twitter profile
+  # - icon: github
+  #   url: //github.com/2/
+  #   alt: Github projects
+  # - icon: linkedin
+  #   url: //linkedin.com/in/tipiirai
+  #   alt: LinkedIn profile
+
+# nue config
+globals: [global]
+page_router: true
